@@ -13,7 +13,7 @@ Before running the BNCAPIDemo application, you need to have the following depend
 To build the BNCAPIDemo application, follow these steps:
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/bncapidemo.git
+git clone https://github.com/psakshaycode/bncapidemo.git
 cd bncapidemo
 
 2. Build the application:
