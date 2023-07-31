@@ -48,8 +48,3 @@ The BNCAPIDemo application provides the following API endpoints:
 3. `/assetTicker`: Retrieves asset ticker data based on optional query parameters such as symbol and type.
 
    Example Usage: `http://localhost:8080/assetTicker?symbol=BTC&type=CRYPTO`
-
-
-## Contributors
-
-- Your Name (Your Email)
